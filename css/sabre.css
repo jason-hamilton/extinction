@@ -1,0 +1,108 @@
+@font-face {
+	font-family: 'communistsans';
+	src: url('communist.woff2') format('woff2'),
+	url('communist.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'jockey_oneregular';
+    src: url('jockey.woff2') format('woff2'),
+    url('jockey.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+.clear {
+	clear: both;
+}
+
+.communist {
+	width: 50%;
+	float: left;
+	padding-right: 10%;
+}
+
+.communist1 {
+	width: 40%;
+	float: right;
+}
+
+.communist2 {
+	width: 40%;
+	float: left;
+	s
+}
+
+.communist3 {
+	width: 40%;
+	float: right;
+	margin-top: 10%;
+}
+
+
+.s_s {
+	width: 40%;
+	float: right;
+	height: 200px;
+}
+
+.ss
+{
+	width: 40%;
+	float: left;
+	
+}
+
+.sss
+{
+	width: 40%;
+	float: right;
+	
+}
+
+.ssss
+{
+	width: 40%;
+	float: left;
+	margin-top: 5%;
+}
+
+body {
+	background-color: #CAE7B9;
+}
+
+header, footer {
+	text-align: center;
+	background-color: #CAE7B9;
+	color: #000;
+	padding: 50px 0;
+	font-size: 24pt;
+}
+
+footer span {
+	display: block;
+	background-color: #CAE7B9;
+	color: #000000;
+	margin: 0px;
+	padding: 20px;
+	text-align: center;
+	width: calc(100% - 40px);
+	font-size: 10pt;
+}
+
+section {
+  	width: 80%;
+  	margin: 50px auto;  		
+}
+
+.communist {
+	font-family: "communistsans";
+}
+
+.jockey {
+	font-family: "jockey_oneregular";
+}
